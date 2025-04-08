@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="7 практика">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Triangle-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/triangle.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
